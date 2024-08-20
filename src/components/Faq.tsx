@@ -33,7 +33,7 @@ const data = [
 ];
 const Faq = () => {
   return (
-    <section className="space-y-10 px-[5%] h-screen flex flex-col justify-center">
+    <section className="space-y-10 h-screen flex flex-col justify-center px-[10%]">
       <h2 className="text-white/90 text-xl font-medium self-start">
         Frequently Asked Questions
       </h2>

@@ -1,7 +1,7 @@
 import { CaretDown, User } from "@phosphor-icons/react";
 const Header = () => {
   return (
-    <header className="text-white/80 flex flex-col items-end px-[5%]">
+    <header className="text-white/80 flex flex-col items-end px-[10%]">
       <nav className="flex items-center space-x-14 p-3">
         <ul className="flex items-center space-x-14 font-medium">
           <li className="flex items-center space-x-2 cursor-pointer">
