@@ -21,7 +21,7 @@ const Feature = () => {
             <img src={star3} alt="star3" className="w-6 h-6" />
           </div>
           <div className="space-y-3">
-            <h2 className="text-xl font-semibold tracking-wide">
+            <h2 className="text-xl font-medium tracking-wide">
               Reel Deal Monthly Movies
             </h2>
             <p className="text-sm text-white/60 font-normal">
@@ -31,7 +31,7 @@ const Feature = () => {
           <div className="w-full border-b border-white/10"></div>
           <div className="space-y-10">
             <div className="space-y-4">
-              <h3 className="text-base font-medium">
+              <h3 className="text-base font-normal">
                 What is MVP Subscription?
               </h3>
               <ol className="text-white/70 space-y-8 relative text-sm font-light">
