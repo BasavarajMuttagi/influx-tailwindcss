@@ -12,8 +12,8 @@ import star3 from "../assets/teenyicons_star-solid.svg";
 
 const Feature = () => {
   return (
-    <div className="h-screen  bg-neutral-900/70 text-white px-[10%]">
-      <div className="flex items-center justify-between h-full">
+    <div className="h-screen  bg-neutral-900/70 text-white">
+      <div className="flex items-center justify-center space-x-10 h-full">
         <section className="flex flex-col justify-between max-w-96 space-y-4">
           <div className="flex items-end p-2">
             <img src={star1} alt="star1" className="w-6 h-6" />
